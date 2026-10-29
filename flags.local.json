@@ -1,0 +1,14 @@
+{
+  "checkout_v2": {
+    "enabled": true,
+    "tenantIds": ["tenant-a"],
+    "userIds": [],
+    "rolloutPercent": 25
+  },
+  "dashboard_v2": {
+    "enabled": true,
+    "tenantIds": [],
+    "userIds": ["u-2"],
+    "rolloutPercent": 0
+  }
+}
